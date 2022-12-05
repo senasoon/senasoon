@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**velog** : https://velog.io/@senasoon
+**blog**: https://jen5.tistory.com/
 
 
 <br>
